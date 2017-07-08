@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

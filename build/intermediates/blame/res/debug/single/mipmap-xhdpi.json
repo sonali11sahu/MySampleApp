@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/splash_icon.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/src/main/res/mipmap-xhdpi/splash_icon.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/usermanual.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/src/main/res/mipmap-xhdpi/usermanual.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/splash_icon1.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/src/main/res/mipmap-xhdpi/splash_icon1.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher1.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/src/main/res/mipmap-xhdpi/ic_launcher1.png"
+    }
+]

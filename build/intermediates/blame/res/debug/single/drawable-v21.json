@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sonalisahu/.android/build-cache/6ca24d3720c5a9a0acbbd5394a0e6076165b3105/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

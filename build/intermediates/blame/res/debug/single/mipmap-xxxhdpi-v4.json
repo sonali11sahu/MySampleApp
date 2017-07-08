@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login_pressed11.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/button_login_pressed11.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login_pressed.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/button_login.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login_pressed1.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/button_login_pressed1.png"
+    },
+    {
+        "merged": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login1.png",
+        "source": "/Users/sonalisahu/Downloads/MyShuttleApp/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/res/mipmap-xxxhdpi-v4/button_login1.png"
+    }
+]
